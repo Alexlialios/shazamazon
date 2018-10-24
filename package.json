@@ -1,0 +1,24 @@
+{
+  "name": "shazamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shazamazoncustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexlialios/shazamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexlialios/shazamazon/issues"
+  },
+  "homepage": "https://github.com/Alexlialios/shazamazon#readme",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "prompt": "^1.0.0"
+  }
+}
